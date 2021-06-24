@@ -1,0 +1,10 @@
+const accessCode1 = "-3";
+const accessCode2 = "ROYAL CHALLENGERS BANGLORE";
+const accessCode3 = "ANYTHING";
+const accessCode4 = "RISHABH PANT";
+const accessCode5 = "224";
+const accessCode6 = "MUMBAI INDIANS";
+const accessCode7 = "3900";
+const accessCode8 = "ARYABHATA";
+const accessCode9 = "10";
+const accessCode10 = "9";
